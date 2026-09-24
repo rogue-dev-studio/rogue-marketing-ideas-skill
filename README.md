@@ -4,7 +4,7 @@
 
 Generate tailored SaaS and product marketing ideas across organic, paid, community, partnerships, product-led growth, retention, and launch channels. Use when the user asks for `/marketing-ideas`, marketing brainstorms, launch ideas, channel ideas, growth tactics, or a prioritized marketing plan.
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `marketing-ideas`
 
 ## Install
